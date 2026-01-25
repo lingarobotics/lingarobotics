@@ -15,4 +15,4 @@ Pre-final year Robotics Engineering student building reasoning-first learning sy
 - JavaScript and full-stack fundamentals
 - Writing clearer code through structured learning
 
-📍 India
+📍 Chennai, India
