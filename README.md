@@ -1,6 +1,6 @@
 ## Hi, I’m Ramalingam 👋
 
-Pre-final year Robotics Engineering student building reasoning-first learning systems and full-stack projects.
+Pre-final year Robotics Engineering student (with a minor in Full Stack Development), building reasoning-first learning systems and full-stack projects.
 
 ### What I’m working on
 - **LGC Concept AI** — a thinking-first programming learning system
@@ -12,7 +12,7 @@ Pre-final year Robotics Engineering student building reasoning-first learning sy
 - Use AI as a validation tool, not a shortcut
 
 ### Current focus
-- JavaScript and full-stack fundamentals
+- Java and full-stack fundamentals (frontend and cloud)
 - Writing clearer code through structured learning
 
 📍 Chennai, India
