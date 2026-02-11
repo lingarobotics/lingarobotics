@@ -1,18 +1,42 @@
 ## Hi, I’m Ramalingam 👋
 
-Pre-final year Robotics Engineering student (with a minor in Full Stack Development), building reasoning-first learning systems and full-stack projects.
+Pre-final year Robotics Engineering student (minor in Full Stack Development), building reasoning-first learning systems and structured full-stack applications.
 
-### What I’m working on
-- **LGC Concept AI** — a thinking-first programming learning system
-- **Rising ARC26** — a structured, discipline-driven learning journey
+---
 
-### How I learn & build
-- Focus on understanding execution flow and core concepts
-- Prefer reasoning over memorization
-- Use AI as a validation tool, not a shortcut
+## 🧠 LGC Systems
 
-### Current focus
-- Java and full-stack fundamentals (frontend and cloud)
-- Writing clearer code through structured learning
+**Founder & Builder — LGC Systems - Learn. Govern. Construct.**
 
-📍 Chennai, India
+LGC Systems is a learning-first technology initiative focused on verification, execution clarity, and long-term understanding.
+
+It includes:
+
+- **LGC Concept AI** — a concept-verification system incorporating teach-back validation and structured reasoning checks.
+- **LGC LearnLogic Code** — a logic-first programming practice framework emphasizing execution flow and defensive thinking.
+
+🔗 https://www.lgcsystems.xyz/
+
+---
+
+## 🚀 Current Focus
+
+- Strengthening **Java fundamentals** and execution modeling  
+- Deepening **full-stack foundations** (frontend, backend, cloud basics)  
+- Practicing **defensive programming** and structured system design  
+- Writing clearer, more predictable code through disciplined learning  
+
+---
+
+## 🛠 Engineering Approach
+
+- Understand execution flow before writing syntax  
+- Prefer reasoning over memorization  
+- Use AI for scaffolding and validation — not dependency  
+- Document decisions and architecture clearly  
+
+---
+
+## 📍 Location
+
+Chennai, India
