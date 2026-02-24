@@ -10,8 +10,8 @@ LGC Systems is a learning-first technology initiative focused on verification, e
 
 It includes:
 
-- **LGC Concept AI** — A concept-verification system incorporating teach-back validation and structured reasoning checks.
-   Live Link: https://concept-ai.lgcsystems.xyz
+- **LGC Concept AI** — A concept-verification system incorporating teach-back validation and structured reasoning checks.       
+    Live Link: https://concept-ai.lgcsystems.xyz
 - **LGC LearnLogic Code** — A logic-first programming practice framework emphasizing execution flow and defensive thinking.  
    Live Link: https://learn-logic-code.lgcsystems.xyz
 
