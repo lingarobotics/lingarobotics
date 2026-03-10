@@ -1,5 +1,5 @@
 ## Hi, I’m Ramalingam Jayavelu 👋  
-Pre-final year Robotics Engineering student (minor in CSE ( Full Stack Development), building reasoning-first learning systems and structured full-stack applications.
+Pre-final year Robotics Engineering student (minor in CSE ( Full Stack Development)), building reasoning-first learning systems and structured full-stack applications.
 
 ---
 
