@@ -1,5 +1,5 @@
 ## Hi, I’m Ramalingam Jayavelu 👋  
-Pre-final year Robotics Engineering student (minor in Full Stack Development), building reasoning-first learning systems and structured full-stack applications.
+Pre-final year Robotics Engineering student (minor in CSE ( Full Stack Development), building reasoning-first learning systems and structured full-stack applications.
 
 ---
 
@@ -16,6 +16,15 @@ It includes:
    Live Link: https://learn-logic-code.lgcsystems.xyz
 
 🔗 https://www.lgcsystems.xyz/
+
+---
+
+Future Products of LGC Systems: 
+
+- **LGC CodeBase Insight**
+- **LGC Govern AI**
+- **LGC Arbitration**
+- **LGC Articulate DevLang**
 
 ---
 
