@@ -25,6 +25,8 @@ Future Products of LGC Systems:
 - **LGC Govern AI**
 - **LGC Arbitration**
 - **LGC Articulate DevLang**
+- **LGC ResultGrid**
+- **LGC MathLogic**
 
 ---
 
