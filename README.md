@@ -17,6 +17,9 @@ It includes:
 - **LGC LearnLogic Code** — A logic-first programming practice framework emphasizing execution flow and defensive thinking.  
    Live Link: https://learn-logic-code.lgcsystems.xyz
 
+- **LGC Articulate DevLang** — A structured communication training system inspired by Thirukkural, focused on clarity, intent, and professional articulation through scenario-based learning. *(Academic Project — Deployed)*
+  🔗 Live: https://articulate-devlang.lgcsystems.xyz  
+
 🔗 https://www.lgcsystems.xyz/
 
 ---
@@ -26,9 +29,13 @@ Future Products of LGC Systems:
 - **LGC CodeBase Insight**
 - **LGC Govern AI**
 - **LGC Arbitration**
-- **LGC Articulate DevLang**
 - **LGC ResultGrid**
 - **LGC MathLogic**
+- **LGC AcadOS**
+- **LGC Emergency Corridor System**
+- **CivicProof**
+- **Know Your Rights**
+
 
 ---
 
