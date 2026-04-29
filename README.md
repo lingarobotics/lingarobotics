@@ -18,9 +18,14 @@ It includes:
    Live Link: https://learn-logic-code.lgcsystems.xyz
 
 - **LGC Articulate DevLang** — A structured communication training system inspired by Thirukkural, focused on clarity, intent, and professional articulation through scenario-based learning. *(Academic Project — Deployed)*
-  🔗 Live: https://articulate-devlang.lgcsystems.xyz  
+            
+    Live Link: https://articulate-devlang.lgcsystems.xyz  
 
-🔗 https://www.lgcsystems.xyz/
+- **Learning Insights - LGC** — Insight-driven learning system where concepts are broken down into real understanding, usage, and takeaways.
+    Live Link: https://learn-with-linga.lgcsystems.xyz
+
+LGC Systems - Umbrella platform for LGC Products
+Live Link : https://www.lgcsystems.xyz/
 
 ---
 
